@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjaysaha1311
-- 👀 I’m interested in Computer Vision Applications, Deep Fakes, Image Synthesis
+- 👀 I’m interested in Computer Vision Applications in Media Forensics, Deep Fakes, Image Synthesis
 - 🌱 I’m currently doing PhD in CS from National University of Singapore
 - 📫 Reach me at sanjaysaha@outlook.com
 
